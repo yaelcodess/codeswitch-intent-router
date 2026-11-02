@@ -35,3 +35,21 @@ id,text,intent,language_pattern,source,split
 34,"What requirements do I need to complete my clearance?",clearance,English,synthetic,unassigned
 35,"May pending requirements pa ba sa clearance ko?",clearance,Taglish,synthetic,unassigned
 36,"Ano pa ang kailangan kong tapusin bago makakuha ng clearance?",clearance,Taglish,synthetic,unassigned
+37,"Nakatala na ba ako ngayong semestre?",enrollment_status,Tagalog,synthetic,unassigned
+38,"Paano ko makikita kung enrolled na ako ngayong semester?",enrollment_status,Taglish,synthetic,unassigned
+39,"Is my enrollment confirmed na ba sa system?",enrollment_status,Taglish,synthetic,unassigned
+40,"Paano humiling ng kopya ng aking sertipiko?",document_request,Tagalog,synthetic,unassigned
+41,"Can I request ng good moral certificate online?",document_request,Taglish,synthetic,unassigned
+42,"How long does it take to process a document request?",document_request,English,synthetic,unassigned
+43,"Anong oras magsisimula ang aking unang klase bukas?",class_schedule,Tagalog,synthetic,unassigned
+44,"Nasaan yung room ng first class ko?",class_schedule,Taglish,synthetic,unassigned
+45,"Where can I find my room assignment?",class_schedule,English,synthetic,unassigned
+46,"Hanggang kailan ang huling araw ng pagbabayad ng matrikula?",tuition_payment,Tagalog,synthetic,unassigned
+47,"Pwede bang installment ang payment ng tuition?",tuition_payment,Taglish,synthetic,unassigned
+48,"Is there a late payment fee for tuition?",tuition_payment,English,synthetic,unassigned
+49,"Paano ko makukuha ang aking talaan ng mga marka?",student_records,Tagalog,synthetic,unassigned
+50,"Pwede bang i-request yung transcript ko para sa abroad?",student_records,Taglish,synthetic,unassigned
+51,"How do I update my personal information in my student record?",student_records,English,synthetic,unassigned
+52,"Ano ang mga kailangan para sa clearance ko?",clearance,Taglish,synthetic,unassigned
+53,"Do I still need to submit requirements para ma-clear ako?",clearance,Taglish,synthetic,unassigned
+54,"Who signs off on my clearance form?",clearance,English,synthetic,unassigned
