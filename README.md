@@ -30,3 +30,8 @@ language model performance.
 ## Project Status
 
 Day 1: Project initialization.
+Day 2: Dataset creation (in progress, 36 of 120 examples).
+
+## Dataset
+
+`language_pattern` is a sentence-level label. English = no Tagalog tokens; Tagalog = no English content words; Taglish = both present. Token-level annotation is done separately.
