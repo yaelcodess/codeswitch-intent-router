@@ -53,3 +53,21 @@ id,text,intent,language_pattern,source,split
 52,"Ano ang mga kailangan para sa clearance ko?",clearance,Taglish,synthetic,unassigned
 53,"Do I still need to submit requirements para ma-clear ako?",clearance,Taglish,synthetic,unassigned
 54,"Who signs off on my clearance form?",clearance,English,synthetic,unassigned
+55,"Kailan ko malalaman kung natanggap na ang aking pagpapatala?",enrollment_status,Tagalog,synthetic,unassigned
+56,"Hindi ko makita yung enrollment status ko sa portal, is it normal?",enrollment_status,Taglish,synthetic,unassigned
+57,"Pwede bang malaman kung kumpleto na ang enrollment ko?",enrollment_status,Taglish,synthetic,unassigned
+58,"Magkano ang bayad sa paghiling ng sertipikasyon?",document_request,Tagalog,synthetic,unassigned
+59,"I need my diploma copy kasi mag-aapply ako ng trabaho.",document_request,Taglish,synthetic,unassigned
+60,"Ilang araw bago makuha yung requested document ko?",document_request,Taglish,synthetic,unassigned
+61,"Anong mga araw ang aking pasok ngayong linggo?",class_schedule,Tagalog,synthetic,unassigned
+62,"Na-move ba ang schedule ng Math class namin?",class_schedule,Taglish,synthetic,unassigned
+63,"Is my class schedule final for this semester?",class_schedule,English,synthetic,unassigned
+64,"Maaari ba akong magbayad ng matrikula nang hulugan?",tuition_payment,Tagalog,synthetic,unassigned
+65,"I already paid my tuition pero hindi pa rin updated sa system.",tuition_payment,Taglish,synthetic,unassigned
+66,"Saan ko ibibigay yung proof of payment ko?",tuition_payment,Taglish,synthetic,unassigned
+67,"Paano ko maitatama ang pagkakamali sa aking talaan?",student_records,Tagalog,synthetic,unassigned
+68,"May mali sa grades ko, paano ko ipapa-correct?",student_records,Taglish,synthetic,unassigned
+69,"Can I get a certified true copy of my records?",student_records,English,synthetic,unassigned
+70,"Kailan ang deadline ng clearance namin?",clearance,Taglish,synthetic,unassigned
+71,"My clearance is still pending kasi may unpaid balance daw ako.",clearance,Taglish,synthetic,unassigned
+72,"Ano ang gagawin ko kung hindi ako ma-clear ng library?",clearance,Taglish,synthetic,unassigned
