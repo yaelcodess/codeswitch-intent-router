@@ -1,10 +1,10 @@
 id,text,intent,language_pattern,source,split
 1,"Paano ko mache-check yung enrollment status ko?",enrollment_status,Taglish,synthetic,unassigned
 2,"I want to check my enrollment status.",enrollment_status,English,synthetic,unassigned
-3,"Gusto kong malaman kung enrolled na ako.",enrollment_status,Tagalog,synthetic,unassigned
+3,"Gusto kong malaman kung enrolled na ako.",enrollment_status,Taglish,synthetic,unassigned
 4,"How can I request my certificate of registration?",document_request,English,synthetic,unassigned
 5,"Paano mag-request ng certificate of registration?",document_request,Taglish,synthetic,unassigned
-6,"Kailangan ko ng certificate of registration.",document_request,Tagalog,synthetic,unassigned
+6,"Kailangan ko ng certificate of registration.",document_request,Taglish,synthetic,unassigned
 7,"Can I see my class schedule?",class_schedule,English,synthetic,unassigned
 8,"Saan ko makikita yung class schedule ko?",class_schedule,Taglish,synthetic,unassigned
 9,"Gusto kong malaman ang aking iskedyul ng klase.",class_schedule,Tagalog,synthetic,unassigned
@@ -16,4 +16,22 @@ id,text,intent,language_pattern,source,split
 15,"Gusto kong makita ang aking mga marka.",student_records,Tagalog,synthetic,unassigned
 16,"How can I check my clearance status?",clearance,English,synthetic,unassigned
 17,"Paano ko malalaman kung cleared na ako?",clearance,Taglish,synthetic,unassigned
-18,"Gusto kong malaman ang status ng aking clearance.",clearance,Tagalog,synthetic,unassigned
+18,"Gusto kong malaman ang status ng aking clearance.",clearance,Taglish,synthetic,unassigned
+19,"Can I verify if my enrollment has been confirmed?",enrollment_status,English,synthetic,unassigned
+20,"Na-confirm na ba yung enrollment ko?",enrollment_status,Taglish,synthetic,unassigned
+21,"Paano ko malalaman kung officially enrolled na ako?",enrollment_status,Taglish,synthetic,unassigned
+22,"Where can I get my certificate of registration?",document_request,English,synthetic,unassigned
+23,"Pwede bang mag-request ng school certificate online?",document_request,Taglish,synthetic,unassigned
+24,"Kailangan ko ng dokumento para sa aking scholarship.",document_request,Taglish,synthetic,unassigned
+25,"What time does my first class start?",class_schedule,English,synthetic,unassigned
+26,"May changes ba sa schedule ng classes ko?",class_schedule,Taglish,synthetic,unassigned
+27,"Saan makikita ang oras ng aking mga klase?",class_schedule,Tagalog,synthetic,unassigned
+28,"Are there other payment methods for tuition?",tuition_payment,English,synthetic,unassigned
+29,"Pwede ba magbayad ng tuition using GCash?",tuition_payment,Taglish,synthetic,unassigned
+30,"Ano ang mga paraan ng pagbabayad ng matrikula?",tuition_payment,Tagalog,synthetic,unassigned
+31,"Can I request my transcript of records?",student_records,English,synthetic,unassigned
+32,"Paano mag-request ng official copy ng grades?",student_records,Taglish,synthetic,unassigned
+33,"Saan makakakuha ng kopya ng aking academic records?",student_records,Taglish,synthetic,unassigned
+34,"What requirements do I need to complete my clearance?",clearance,English,synthetic,unassigned
+35,"May pending requirements pa ba sa clearance ko?",clearance,Taglish,synthetic,unassigned
+36,"Ano pa ang kailangan kong tapusin bago makakuha ng clearance?",clearance,Taglish,synthetic,unassigned
