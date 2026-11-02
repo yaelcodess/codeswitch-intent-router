@@ -71,3 +71,27 @@ id,text,intent,language_pattern,source,split
 70,"Kailan ang deadline ng clearance namin?",clearance,Taglish,synthetic,unassigned
 71,"My clearance is still pending kasi may unpaid balance daw ako.",clearance,Taglish,synthetic,unassigned
 72,"Ano ang gagawin ko kung hindi ako ma-clear ng library?",clearance,Taglish,synthetic,unassigned
+73,"Opisyal na bang nakalista ang pangalan ko sa mga nakatala?",enrollment_status,Tagalog,synthetic,unassigned
+74,"Has my enrollment been approved by the registrar?",enrollment_status,English,synthetic,unassigned
+75,"Bakit pending pa rin ang enrollment ko?",enrollment_status,Taglish,synthetic,unassigned
+76,"I enrolled last week pero wala pa rin akong confirmation email.",enrollment_status,Taglish,synthetic,unassigned
+77,"Maaari ba akong humingi ng kopya ng aking katibayan ng pagtatapos?",document_request,Tagalog,synthetic,unassigned
+78,"How do I request an official copy of my diploma?",document_request,English,synthetic,unassigned
+79,"Gaano katagal bago ma-release yung certificate of enrollment ko?",document_request,Taglish,synthetic,unassigned
+80,"Please process my request for certificate of good moral kasi deadline na bukas.",document_request,Taglish,synthetic,unassigned
+81,"Saan gaganapin ang aking klase sa Lunes?",class_schedule,Tagalog,synthetic,unassigned
+82,"Maaari ko bang makita ang listahan ng mga klase ko ngayong semestre?",class_schedule,Tagalog,synthetic,unassigned
+83,"Which room is my first class in?",class_schedule,English,synthetic,unassigned
+84,"Pwede ko bang makita yung updated schedule ng mga classes ko?",class_schedule,Taglish,synthetic,unassigned
+85,"Magkano pa ang kulang kong bayarin sa matrikula?",tuition_payment,Tagalog,synthetic,unassigned
+86,"Tumatanggap ba kayo ng bayad sa pamamagitan ng bangko?",tuition_payment,Tagalog,synthetic,unassigned
+87,"Can I pay my tuition in installments?",tuition_payment,English,synthetic,unassigned
+88,"Nagbayad na ako via GCash pero walang receipt na lumabas.",tuition_payment,Taglish,synthetic,unassigned
+89,"Paano ko makikita ang aking mga marka noong nakaraang semestre?",student_records,Tagalog,synthetic,unassigned
+90,"Where can I download my grades?",student_records,English,synthetic,unassigned
+91,"Kailangan ko ng copy ng TOR para sa scholarship application.",student_records,Taglish,synthetic,unassigned
+92,"Hindi pa lumalabas yung grades ko sa portal, kailan kaya mauupload?",student_records,Taglish,synthetic,unassigned
+93,"Paano ko malalaman kung may hold ang clearance ko?",clearance,Taglish,synthetic,unassigned
+94,"What offices do I need to visit for my clearance?",clearance,English,synthetic,unassigned
+95,"I submitted all requirements na pero hindi pa rin ako cleared.",clearance,Taglish,synthetic,unassigned
+96,"Sino ang magpapatunay na wala akong utang sa paaralan?",clearance,Tagalog,synthetic,unassigned
