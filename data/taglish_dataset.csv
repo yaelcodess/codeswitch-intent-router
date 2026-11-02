@@ -95,3 +95,27 @@ id,text,intent,language_pattern,source,split
 94,"What offices do I need to visit for my clearance?",clearance,English,synthetic,unassigned
 95,"I submitted all requirements na pero hindi pa rin ako cleared.",clearance,Taglish,synthetic,unassigned
 96,"Sino ang magpapatunay na wala akong utang sa paaralan?",clearance,Tagalog,synthetic,unassigned
+97,"Maaari po bang malaman kung tapos na ang aking pagpapatala?",enrollment_status,Tagalog,synthetic,unassigned
+98,"Nag-enroll na ako online pero hindi ko alam kung successful.",enrollment_status,Taglish,synthetic,unassigned
+99,"Kailangan ko pa bang pumunta sa registrar para ma-confirm ang enrollment?",enrollment_status,Taglish,synthetic,unassigned
+100,"Why does my portal still show that I am not enrolled?",enrollment_status,English,synthetic,unassigned
+101,"Saan ako kukuha ng papel na magpapatunay na ako ay estudyante rito?",document_request,Tagalog,synthetic,unassigned
+102,"Pwede po bang i-request yung certificate of grades via email?",document_request,Taglish,synthetic,unassigned
+103,"I-request ko sana yung form 137 para sa transfer ko.",document_request,Taglish,synthetic,unassigned
+104,"What documents can I request from the registrar's office?",document_request,English,synthetic,unassigned
+105,"Anong oras natatapos ang huli kong klase tuwing Miyerkules?",class_schedule,Tagalog,synthetic,unassigned
+106,"Naka-online ba or face-to-face ang klase ko sa Huwebes?",class_schedule,Taglish,synthetic,unassigned
+107,"Please send me my schedule kasi nawala yung copy ko.",class_schedule,Taglish,synthetic,unassigned
+108,"Are there any changes to my class schedule next week?",class_schedule,English,synthetic,unassigned
+109,"Maaari bang ipagpaliban ang pagbabayad ng matrikula hanggang katapusan ng buwan?",tuition_payment,Tagalog,synthetic,unassigned
+110,"Nag-deposit na ako sa bank pero hindi pa nagre-reflect yung payment.",tuition_payment,Taglish,synthetic,unassigned
+111,"Magkano ang total tuition ko this semester?",tuition_payment,Taglish,synthetic,unassigned
+112,"What is the deadline to pay my tuition fees?",tuition_payment,English,synthetic,unassigned
+113,"Sino ang dapat kong kausapin kung may kulang sa aking talaan ng mga marka?",student_records,Tagalog,synthetic,unassigned
+114,"Na-update na ba yung records ko after ng shifting?",student_records,Taglish,synthetic,unassigned
+115,"Hindi tama yung subject na nakalagay sa transcript ko.",student_records,Taglish,synthetic,unassigned
+116,"How can I request a correction in my academic record?",student_records,English,synthetic,unassigned
+117,"Ilang tanggapan pa ang kailangan kong daanan bago ako makalabas ng paaralan?",clearance,Tagalog,synthetic,unassigned
+118,"Na-sign na ba ng library yung clearance form ko?",clearance,Taglish,synthetic,unassigned
+119,"I already settled my balance, so bakit pending pa rin ang clearance ko?",clearance,Taglish,synthetic,unassigned
+120,"Can I get my clearance signed online?",clearance,English,synthetic,unassigned
