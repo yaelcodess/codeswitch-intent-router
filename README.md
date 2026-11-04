@@ -59,6 +59,7 @@ Columns: `id, text, intent, language_pattern, source, split`
 - `language_pattern` counts: Taglish 60, English 31, Tagalog 29.
 - `source` is `synthetic` for all rows.
 - `split` is `unassigned` until the train/validation/test split is made.
+- `split` is a placeholder (`unassigned`) in this file; see `data/splits.csv`.
 
 ### Language pattern labels
 
